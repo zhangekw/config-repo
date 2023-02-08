@@ -1,0 +1,7 @@
+server:
+  port : 7779
+  #端口
+spring:
+  application:
+    name : config-client
+name : config-client-default
